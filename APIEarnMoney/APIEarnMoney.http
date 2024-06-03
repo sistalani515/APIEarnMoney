@@ -1,0 +1,6 @@
+@APIEarnMoney_HostAddress = http://localhost:5167
+
+GET {{APIEarnMoney_HostAddress}}/api/EarnMoneyUser/GetAllUsers?limit=10
+Accept: application/json
+
+###
